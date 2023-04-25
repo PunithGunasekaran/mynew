@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1680932585,,"wq!"
+|2,0,1681534297,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,40 +25,78 @@
 # Registers:
 
 # File marks:
-'0  3  14  ~/index.html
-|4,48,3,14,1680932585,"~/index.html"
-'1  21  0  ~/mygit/index.html
-|4,49,21,0,1679207483,"~/mygit/index.html"
-'2  16  25  ~/mygit/index.html
-|4,50,16,25,1679206732,"~/mygit/index.html"
-'3  16  25  ~/mygit/index.html
-|4,51,16,25,1679206732,"~/mygit/index.html"
-'4  13  38  ~/mygit/index.html
-|4,52,13,38,1679206108,"~/mygit/index.html"
-'5  13  38  ~/mygit/index.html
-|4,53,13,38,1679206108,"~/mygit/index.html"
-'6  13  38  ~/mygit/index.html
-|4,54,13,38,1679206108,"~/mygit/index.html"
-'7  13  38  ~/mygit/index.html
-|4,55,13,38,1679206108,"~/mygit/index.html"
-'8  9  35  ~/mygit/index.html
-|4,56,9,35,1679205104,"~/mygit/index.html"
-'9  9  35  ~/mygit/index.html
-|4,57,9,35,1679205104,"~/mygit/index.html"
+'0  30  15  ~/mygit/index.html
+|4,48,30,15,1681534297,"~/mygit/index.html"
+'1  5  0  ~/file.txt
+|4,49,5,0,1681015573,"~/file.txt"
+'2  3  14  ~/index.html
+|4,50,3,14,1680932585,"~/index.html"
+'3  21  0  ~/mygit/index.html
+|4,51,21,0,1679207483,"~/mygit/index.html"
+'4  21  0  ~/mygit/index.html
+|4,52,21,0,1679207483,"~/mygit/index.html"
+'5  16  25  ~/mygit/index.html
+|4,53,16,25,1679206732,"~/mygit/index.html"
+'6  16  25  ~/mygit/index.html
+|4,54,16,25,1679206732,"~/mygit/index.html"
+'7  16  25  ~/mygit/index.html
+|4,55,16,25,1679206732,"~/mygit/index.html"
+'8  16  25  ~/mygit/index.html
+|4,56,16,25,1679206732,"~/mygit/index.html"
+'9  13  38  ~/mygit/index.html
+|4,57,13,38,1679206108,"~/mygit/index.html"
 
 # Jumplist (newest first):
+-'  30  15  ~/mygit/index.html
+|4,39,30,15,1681534297,"~/mygit/index.html"
+-'  21  0  ~/mygit/index.html
+|4,39,21,0,1681534243,"~/mygit/index.html"
+-'  5  0  ~/file.txt
+|4,39,5,0,1681015573,"~/file.txt"
+-'  5  0  ~/file.txt
+|4,39,5,0,1681015573,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1681015546,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1681015546,"~/file.txt"
 -'  3  14  ~/index.html
 |4,39,3,14,1680932585,"~/index.html"
+-'  3  14  ~/index.html
+|4,39,3,14,1680932585,"~/index.html"
+-'  3  14  ~/index.html
+|4,39,3,14,1680932585,"~/index.html"
+-'  3  14  ~/index.html
+|4,39,3,14,1680932585,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1680932547,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1680932547,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1680932547,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1680932547,"~/index.html"
 -'  21  0  ~/mygit/index.html
 |4,39,21,0,1679207483,"~/mygit/index.html"
 -'  21  0  ~/mygit/index.html
 |4,39,21,0,1679207483,"~/mygit/index.html"
+-'  21  0  ~/mygit/index.html
+|4,39,21,0,1679207483,"~/mygit/index.html"
+-'  21  0  ~/mygit/index.html
+|4,39,21,0,1679207483,"~/mygit/index.html"
 -'  16  25  ~/mygit/index.html
 |4,39,16,25,1679207436,"~/mygit/index.html"
 -'  16  25  ~/mygit/index.html
 |4,39,16,25,1679207436,"~/mygit/index.html"
+-'  16  25  ~/mygit/index.html
+|4,39,16,25,1679207436,"~/mygit/index.html"
+-'  16  25  ~/mygit/index.html
+|4,39,16,25,1679207436,"~/mygit/index.html"
+-'  16  25  ~/mygit/index.html
+|4,39,16,25,1679207436,"~/mygit/index.html"
+-'  16  25  ~/mygit/index.html
+|4,39,16,25,1679206732,"~/mygit/index.html"
+-'  16  25  ~/mygit/index.html
+|4,39,16,25,1679206732,"~/mygit/index.html"
 -'  16  25  ~/mygit/index.html
 |4,39,16,25,1679206732,"~/mygit/index.html"
 -'  16  25  ~/mygit/index.html
@@ -71,6 +109,20 @@
 |4,39,13,38,1679206611,"~/mygit/index.html"
 -'  13  38  ~/mygit/index.html
 |4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206611,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206108,"~/mygit/index.html"
+-'  13  38  ~/mygit/index.html
+|4,39,13,38,1679206108,"~/mygit/index.html"
 -'  13  38  ~/mygit/index.html
 |4,39,13,38,1679206108,"~/mygit/index.html"
 -'  13  38  ~/mygit/index.html
@@ -87,6 +139,24 @@
 |4,39,9,35,1679206063,"~/mygit/index.html"
 -'  9  35  ~/mygit/index.html
 |4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679206063,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679205104,"~/mygit/index.html"
+-'  9  35  ~/mygit/index.html
+|4,39,9,35,1679205104,"~/mygit/index.html"
 -'  9  35  ~/mygit/index.html
 |4,39,9,35,1679205104,"~/mygit/index.html"
 -'  9  35  ~/mygit/index.html
@@ -107,6 +177,28 @@
 |4,39,7,23,1679205051,"~/mygit/index.html"
 -'  7  23  ~/mygit/index.html
 |4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679205051,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679202944,"~/mygit/index.html"
+-'  7  23  ~/mygit/index.html
+|4,39,7,23,1679202944,"~/mygit/index.html"
 -'  7  23  ~/mygit/index.html
 |4,39,7,23,1679202944,"~/mygit/index.html"
 -'  7  23  ~/mygit/index.html
@@ -132,80 +224,37 @@
 -'  5  27  ~/mygit/index.html
 |4,39,5,27,1679202925,"~/mygit/index.html"
 -'  5  27  ~/mygit/index.html
-|4,39,5,27,1679202588,"~/mygit/index.html"
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
+-'  5  27  ~/mygit/index.html
+|4,39,5,27,1679202925,"~/mygit/index.html"
 -'  5  27  ~/mygit/index.html
 |4,39,5,27,1679202588,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679202550,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679120464,"~/mygit/index.html"
--'  3  21  ~/mygit/index.html
-|4,39,3,21,1679120464,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
--'  1  0  ~/mygit/index.html
-|4,39,1,0,1679120411,"~/mygit/index.html"
 
 # History of marks within files (newest to oldest):
 
-> ~/index.html
-	*	1680932577	0
-	"	3	14
-	^	3	15
-	.	3	14
-	+	3	14
-
 > ~/mygit/index.html
-	*	1679207479	0
-	"	21	0
-	^	21	0
-	.	20	0
+	*	1681534292	0
+	"	30	15
+	^	30	16
+	.	31	0
 	+	10	0
 	+	3	21
 	+	10	0
@@ -216,3 +265,19 @@
 	+	22	0
 	+	16	26
 	+	20	0
+	+	21	0
+	+	31	0
+
+> ~/file.txt
+	*	1681015569	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	4	0
+
+> ~/index.html
+	*	1680932577	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	3	14
